@@ -5,4 +5,4 @@ Download the MlangoWangu.apk and install on Phone
 
 Once installed, open and connect to Bluetooth module on the door.
 
-Now lock and unlock using those icons.
+Now lock and unlock by tapping those icons on screen.
